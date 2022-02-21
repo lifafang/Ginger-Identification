@@ -51,5 +51,5 @@ sudo ./yolov4 -d ../../yolov3-spp/samples // deserialize plan file and run infer
 </p>
 
 ## More Information
-
-See the readme in [home page.](https://github.com/wang-xinyu/tensorrtx)
+Files from：
+https://github.com/wang-xinyu/tensorrtx
